@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "365 Days",
+  "base_artist": "蓮ノ空女学院スクールアイドルクラブ",
+  "createdAt": "2025-12-30T08:58:31.106035Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "365",
+      "artist": "Oh Wonder",
+      "has_synced": true,
+      "path": "select/01_365_Oh_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "365",
+      "artist": "Amaranthe",
+      "has_synced": true,
+      "path": "select/02_365_Amaranthe.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "365",
+      "artist": "Zedd feat. Katy Perry",
+      "has_synced": true,
+      "path": "select/03_365_Zedd_feat._Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "365",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/04_365_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "365",
+      "artist": "ZEDD, Katy Perry",
+      "has_synced": true,
+      "path": "select/05_365_ZEDD,_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "365",
+      "artist": "Zedd & Katy Perry",
+      "has_synced": true,
+      "path": "select/06_365_Zedd_&_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "365 Days",
+      "artist": "ZZ Ward",
+      "has_synced": true,
+      "path": "select/07_365_Days_ZZ_Ward.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "365 Days",
+      "artist": "The Mighty Mighty Bosstones",
+      "has_synced": true,
+      "path": "select/08_365_Days_The_Mighty_Mighty_Bosstones.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "365 Days",
+      "artist": "Mighty Mighty BossTones, The",
+      "has_synced": true,
+      "path": "select/09_365_Days_Mighty_Mighty_BossTones,_The.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Same Ole Love (365 Days a Year)",
+      "artist": "Fattburger",
+      "has_synced": false,
+      "path": "select/10_Same_Ole_Love_(365_Days_a_Year)_Fattburger.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "365",
+      "artist": "Zedd & Katy Perry",
+      "has_synced": true,
+      "path": "select/11_365_Zedd_&_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "365",
+      "artist": "Zedd & Katy Perry",
+      "has_synced": true,
+      "path": "select/12_365_Zedd_&_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "365",
+      "artist": "ZEDD;Katy Perry",
+      "has_synced": true,
+      "path": "select/13_365_ZEDD;Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "365 Days",
+      "artist": "Lutricia McNeal",
+      "has_synced": false,
+      "path": "select/14_365_Days_Lutricia_McNeal.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "365 Days",
+      "artist": "Lutricia McNeal",
+      "has_synced": true,
+      "path": "select/15_365_Days_Lutricia_McNeal.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "365 Days - Radio Edit",
+      "artist": "ZZ Ward",
+      "has_synced": false,
+      "path": "select/16_365_Days_-_Radio_Edit_ZZ_Ward.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "365 Days (Radio Edit)",
+      "artist": "ZZ Ward",
+      "has_synced": false,
+      "path": "select/17_365_Days_(Radio_Edit)_ZZ_Ward.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Procrastination 365",
+      "artist": "LCMDF",
+      "has_synced": false,
+      "path": "select/18_Procrastination_365_LCMDF.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "24-7-365",
+      "artist": "Percy Sledge",
+      "has_synced": false,
+      "path": "select/19_24-7-365_Percy_Sledge.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "365 Days",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "has_synced": false,
+      "path": "select/pl_01_365_Days_蓮ノ空女学院スクールアイドルクラブ.txt"
+    }
+  ]
+}
